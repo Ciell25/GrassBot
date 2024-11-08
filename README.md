@@ -7,7 +7,7 @@
 - Format Proxy Dah Ane Kasih Contoh Di ```localproxies.txt```
 - ```Dashboard Grass Masih Error``` Kata Team Grass Gw Tanyain Didiscord Tadi, Point Bakal Tetep Masuk.
 
-# Requirements
+# Ruuning
 
 ```
 git clone https://github.com/Ciell25/GrassBot.git
