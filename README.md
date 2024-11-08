@@ -13,7 +13,7 @@
 git clone https://github.com/Ciell25/GrassBot.git
 ```
 ```
-cd grass
+cd GrassBot
 ```
 ```
 pip install -r requirements.txt
