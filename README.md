@@ -10,7 +10,7 @@
 # Requirements
 
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git
+git clone https://github.com/Ciell25/GrassBot.git
 ```
 ```
 cd grass
